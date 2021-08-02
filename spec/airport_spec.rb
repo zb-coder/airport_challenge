@@ -13,5 +13,10 @@ describe Airport do
    it 'gets a plane to land' do
     expect(airport).to respond_to(:land)
    end
-
+#User story 2
+   it 'gets a plane to take off' do
+    airport = Airport.new
+    plane = Plane.new
+    expect(airport).to respond_to(:take_off)
+   end
 end
