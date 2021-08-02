@@ -87,3 +87,10 @@ Finally, don’t overcomplicate things. This task isn’t as hard as it may seem
 * **Submit a pull request early.**
 
 * Finally, please submit a pull request before Monday at 9am with your solution or partial solution.  However much or little amount of code you wrote please please please submit a pull request before Monday at 9am.
+
+My README
+
+For the first user story I want to instruct the plane to land. In order to do this I created two spec files (airport_spec.rb and plane_spec.rb). I wrote my test by creating new plane and airport classes and made the test in the airport spec to insure that no error was raised when the plane lands. In the plane spec file I made a test and in the normal plane file I made a plane class. I also got the plane to land using respond_to. I tested my unit test and then created a normal rb file called airport and got the test to pass. 
+I got up to:
+
+I plan to finish this challenge by
