@@ -93,6 +93,9 @@ My README
 For the first user story I want to instruct the plane to land. In order to do this I created two spec files (airport_spec.rb and plane_spec.rb). I wrote my test by creating new plane and airport classes and made the test in the airport spec to insure that no error was raised when the plane lands. In the plane spec file I made a test and in the normal plane file I made a plane class. I also got the plane to land using respond_to. I tested my unit test and then created a normal rb file called airport and got the test to pass. 
 
 For the second user story I got the plane to take off. I added one test and also added a new airport and plane. I instructed airport to respond to takeoff. I got the test to pass by adding a take_off method to the airport file.
-I got up to:
 
-I plan to finish this challenge by
+For the third user story I gave the Airport a maximum capacity of 10 planes. I then created a unit test that prevents the landing of an 11th plane by giving an error message through raise_error. I then made the error pass by adding to the airport.rb file.
+
+I got up to Unit test 3. I kept coming across many error messages that I found difficult to solve. I was stuck on one for a little while which possibly delayed me.
+
+I plan to finish this challenge by spending more time on it and trying to solve it. Also, in future, start these challenges earlier. 
